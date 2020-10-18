@@ -1,0 +1,19 @@
+name : cup
+color : white
+location : left bottom
+
+name : diningtable
+color : white
+location : right bottom
+
+name : person
+color : white
+location : center
+
+name : fork
+color : white
+location : left bottom
+
+name : fork
+color : white
+location : right bottom

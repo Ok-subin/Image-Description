@@ -1,0 +1,40 @@
+name : orange
+color : Yellow
+location : left bottom
+
+name : orange
+color : White
+location : left bottom
+
+name : orange
+color : Yellow
+location : left bottom
+
+name : oven
+color : White
+location : left bottom
+
+name : person
+color : White
+location : center
+
+name : spoon
+color : White
+location : center
+
+name : bowl
+color : White
+location : center
+
+name : cup
+color : Yellow
+location : right bottom
+
+name : microwave
+color : White
+location : right top
+
+name : oven
+color : White
+location : right bottom
+
