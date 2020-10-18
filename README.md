@@ -36,7 +36,7 @@ I will show you some of the results produced by running this program.
 
 
 ![prediction](./Result/case01/prediction.jpg)<br/>
-[ After Yolo V3, An image with a bounding box covered ]
+**[ After Yolo V3, An image with a bounding box covered ]<br/>**
 <br/>
 
 |   Object  |  Confidence score  |  Bounding Box  |
@@ -110,9 +110,9 @@ There are a white cup in the left bottom and white dining table in the right bot
 **[Image information]**
 <br/>
 
-There are a yellow orange in the left bottom and a white orange in the left bottom and a yellow orange in the left bottom and a white oven in the left bottom and a white person in the center and a white spoon in the center and white a bowl in the center and yellow cup in the right bottom and a white microwave in the right top and a white oven in the right bottom in the image.<br/>
+There are a yellow orange in the left bottom and a white orange in the left bottom and a yellow orange in the left bottom and a white oven in the left bottom and a white person in the center and a white spoon in the center and a white bowl in the center and yellow cup in the right bottom and a white microwave in the right top and a white oven in the right bottom in the image.<br/>
 **[ Image Description Sentence]**
 
-왼쪽 하단에 노란색 주황색, 왼쪽 하단에 흰색 주황색, 왼쪽 하단에 노란색 주황색, 왼쪽 하단에 흰색 오븐, 중앙에 흰색 사람, 중앙에 흰색 숟가락, 흰색 a 이미지의 중앙에는 그릇, 오른쪽 하단에는 노란색 컵, 오른쪽 상단에는 흰색 전자 레인지, 오른쪽 하단에는 흰색 오븐이 있습니다.<br/>
+왼쪽 하단에 노란색 주황색, 왼쪽 하단에 흰색 주황색, 왼쪽 하단에 노란색 주황색, 왼쪽 하단에 흰색 오븐, 중앙에 흰색 사람, 중앙에 흰색 숟가락과 흰색이 있습니다. 이미지의 중앙에는 그릇, 오른쪽 하단에는 노란색 컵, 오른쪽 상단에는 흰색 전자 레인지, 오른쪽 하단에는 흰색 오븐이 있습니다.<br/>
 **[ Image Description Sentence _ Korean]**
 <br/>
