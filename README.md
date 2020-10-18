@@ -46,8 +46,9 @@ I will show you some of the results produced by running this program.
 |Person|100%|757 717 6050 3946|
 |Fork|58%|2559 2195 2797 3410|
 |Fork|73%|3479 2757 4005 3472|
-**['Yolo_result.txt' ]**
 <br/>
+**['Yolo_result.txt' ]**
+
 
 
 |   Object  |  Color |  Location  |
@@ -57,8 +58,9 @@ I will show you some of the results produced by running this program.
 |Person|White|Center|
 |Fork|White|Left bottom|
 |Fork|White|Right bottom|
-**[Image information]**
 <br/>
+**[Image information]**
+
 
 There are a white cup in the left bottom and white dining table in the right bottom and white person in the center and white fork in the left bottom and white fork in the right bottom in the image.<br/>
 **[ Image Description Sentence _ English]**
@@ -91,8 +93,9 @@ There are a white cup in the left bottom and white dining table in the right bot
 |Cup|82%|3719 2395 4286 2959|
 |MicroWave|99%|4503 591 5925 1590|
 |Oven|63%|4505 1656 5970 2852|
-**['Yolo_result.txt' ]**
 <br/>
+**['Yolo_result.txt' ]**
+
 
 
 |   Object  |  Color |  Location  |
@@ -107,8 +110,9 @@ There are a white cup in the left bottom and white dining table in the right bot
 |Cup|Yellow|right bottom|
 |MicroWave|White|right top|
 |Oven|White|right bottom|
-**[Image information]**
 <br/>
+**[Image information]**
+
 
 There are a yellow orange in the left bottom and a white orange in the left bottom and a yellow orange in the left bottom and a white oven in the left bottom and a white person in the center and a white spoon in the center and a white bowl in the center and yellow cup in the right bottom and a white microwave in the right top and a white oven in the right bottom in the image.<br/>
 **[ Image Description Sentence]**
