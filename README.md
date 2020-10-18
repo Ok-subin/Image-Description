@@ -33,7 +33,6 @@ I will show you some of the results produced by running this program.
 **[ original image ]**
 ![original](./Result/case01/original.jpg)<br/>
 <br/>
-<br/>
 
 **[ After Yolo V3, An image with a bounding box covered ]<br/>**
 ![prediction](./Result/case01/prediction.jpg)<br/>
@@ -60,6 +59,7 @@ I will show you some of the results produced by running this program.
 |Fork|White|Left bottom|
 |Fork|White|Right bottom|
 
+<br/>
 
 **[ Image Description Sentence _ English]<br/>**
 There are a white cup in the left bottom and white dining table in the right bottom and white person in the center and white fork in the left bottom and white fork in the right bottom in the image.<br/>
@@ -76,7 +76,7 @@ There are a white cup in the left bottom and white dining table in the right bot
 ![original](./Result/case02/original.jpg)
 
 <br/>
-<br/>
+
 
 **[ After Yolo V3, An image with a bounding box covered ]<br/>**
 ![prediction](./Result/case02/prediction.jpg)
@@ -112,7 +112,7 @@ There are a white cup in the left bottom and white dining table in the right bot
 |MicroWave|White|right top|
 |Oven|White|right bottom|
 <br/>
-
+<br/>
 **[ Image Description Sentence]**
 There are a yellow orange in the left bottom and a white orange in the left bottom and a yellow orange in the left bottom and a white oven in the left bottom and a white person in the center and a white spoon in the center and a white bowl in the center and yellow cup in the right bottom and a white microwave in the right top and a white oven in the right bottom in the image.<br/>
 
