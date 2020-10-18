@@ -46,9 +46,7 @@ I will show you some of the results produced by running this program.
 |Person|100%|757 717 6050 3946|
 |Fork|58%|2559 2195 2797 3410|
 |Fork|73%|3479 2757 4005 3472|
-</br>
-**['Yolo_result.txt' ]**
-
+**['Yolo_result.txt' ]<br/>**
 
 
 |   Object  |  Color |  Location  |
@@ -58,8 +56,7 @@ I will show you some of the results produced by running this program.
 |Person|White|Center|
 |Fork|White|Left bottom|
 |Fork|White|Right bottom|
-</br>
-**[Image information]</br>**
+**[Image information]<br/>**
 
 
 There are a white cup in the left bottom and white dining table in the right bottom and white person in the center and white fork in the left bottom and white fork in the right bottom in the image.<br/>
