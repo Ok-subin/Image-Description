@@ -30,13 +30,13 @@ If you want to use this program,
 I will show you some of the results produced by running this program.
 
 **Case 1**
-![original](./Result/case01/original.jpg)<br/>
 **[ original image ]**
+![original](./Result/case01/original.jpg)<br/>
 <br/>
 <br/>
 
-![prediction](./Result/case01/prediction.jpg)<br/>
 **[ After Yolo V3, An image with a bounding box covered ]<br/>**
+![prediction](./Result/case01/prediction.jpg)<br/>
 <br/>
 <br/>
 
@@ -50,6 +50,7 @@ I will show you some of the results produced by running this program.
 |Fork|73%|3479 2757 4005 3472|
 
 <br/>
+
 **[Image information]<br/>**
 |   Object  |  Color |  Location  |
 |-----------|--------------------|----------------|
@@ -60,24 +61,26 @@ I will show you some of the results produced by running this program.
 |Fork|White|Right bottom|
 
 
-
+**[ Image Description Sentence _ English]<br/>**
 There are a white cup in the left bottom and white dining table in the right bottom and white person in the center and white fork in the left bottom and white fork in the right bottom in the image.<br/>
-**[ Image Description Sentence _ English]**
 
+**[ Image Description Sentence _ Korean]<br/>**
 이미지의 왼쪽 하단에는 흰색 컵, 오른쪽 하단에는 흰색 식탁, 중앙에는 흰색 사람, 왼쪽 하단에는 흰색 포크, 오른쪽 하단에는 흰색 포크가 있습니다.<br/>
-**[ Image Description Sentence _ Korean]**
+
 <br/>
 
 
 
 **Case 2**
-![original](./Result/case02/original.jpg)
 **[ original image ]<br/>**
+![original](./Result/case02/original.jpg)
+
 <br/>
 <br/>
 
-![prediction](./Result/case02/prediction.jpg)
 **[ After Yolo V3, An image with a bounding box covered ]<br/>**
+![prediction](./Result/case02/prediction.jpg)
+
 <br/><br/>
 
 **['Yolo_result.txt' ]<br/>**
@@ -110,10 +113,10 @@ There are a white cup in the left bottom and white dining table in the right bot
 |Oven|White|right bottom|
 <br/>
 
-
-There are a yellow orange in the left bottom and a white orange in the left bottom and a yellow orange in the left bottom and a white oven in the left bottom and a white person in the center and a white spoon in the center and a white bowl in the center and yellow cup in the right bottom and a white microwave in the right top and a white oven in the right bottom in the image.<br/>
 **[ Image Description Sentence]**
+There are a yellow orange in the left bottom and a white orange in the left bottom and a yellow orange in the left bottom and a white oven in the left bottom and a white person in the center and a white spoon in the center and a white bowl in the center and yellow cup in the right bottom and a white microwave in the right top and a white oven in the right bottom in the image.<br/>
 
-왼쪽 하단에 노란색 주황색, 왼쪽 하단에 흰색 주황색, 왼쪽 하단에 노란색 주황색, 왼쪽 하단에 흰색 오븐, 중앙에 흰색 사람, 중앙에 흰색 숟가락과 흰색이 있습니다. 이미지의 중앙에는 그릇, 오른쪽 하단에는 노란색 컵, 오른쪽 상단에는 흰색 전자 레인지, 오른쪽 하단에는 흰색 오븐이 있습니다.<br/>
 **[ Image Description Sentence _ Korean]**
+왼쪽 하단에 노란색 주황색, 왼쪽 하단에 흰색 주황색, 왼쪽 하단에 노란색 주황색, 왼쪽 하단에 흰색 오븐, 중앙에 흰색 사람, 중앙에 흰색 숟가락과 흰색이 있습니다. 이미지의 중앙에는 그릇, 오른쪽 하단에는 노란색 컵, 오른쪽 상단에는 흰색 전자 레인지, 오른쪽 하단에는 흰색 오븐이 있습니다.<br/>
+
 <br/>
