@@ -1,7 +1,4 @@
 # Image Description
- Image Description
-
-# Image Description
  &nbsp; This project was started with the purpose of improving web accessibility for the visually impaired. It has been proposed to replace 'screen readers', that non-text areas cannot be recognized unless alternative text is provided. 
  &nbsp; Among several areas except text, I want to convey an image as a complete sentence. This program receives an image as an input, extracts the name, color, and location of the object in the image, and completes it into a single sentence.
 
@@ -33,12 +30,12 @@ If you want to use this program,
 I will show you some of the results produced by running this program.
 
 **Case 1**
-![original](./Result/case01/original.jpg)
+![original](./Result/case01/original.jpg)<br/>
 [ original image ]
 <br/>
 
 
-![prediction](./Result/case01/prediction.jpg)
+![prediction](./Result/case01/prediction.jpg)<br/>
 [ After Yolo V3, An image with a bounding box covered ]
 <br/>
 
@@ -48,7 +45,7 @@ I will show you some of the results produced by running this program.
 |Dining Table|98%|640 3471 6140 4371|
 |Person|100%|757 717 6050 3946|
 |Fork|58%|2559 2195 2797 3410|
-|Fork|73%|3479 2757 4005 3472|
+|Fork|73%|3479 2757 4005 3472|<br/>
 ['Yolo_result.txt' ]
 <br/>
 
@@ -59,14 +56,14 @@ I will show you some of the results produced by running this program.
 |Dining Table|White|Right bottom|
 |Person|White|Center|
 |Fork|White|Left bottom|
-|Fork|White|Right bottom|
+|Fork|White|Right bottom|<br/>
 [Image information]
 <br/>
 
-There are a white cup in the left bottom and white dining table in the right bottom and white person in the center and white fork in the left bottom and white fork in the right bottom in the image.
+There are a white cup in the left bottom and white dining table in the right bottom and white person in the center and white fork in the left bottom and white fork in the right bottom in the image.<br/>
 [ Image Description Sentence _ English]
 
-이미지의 왼쪽 하단에는 흰색 컵, 오른쪽 하단에는 흰색 식탁, 중앙에는 흰색 사람, 왼쪽 하단에는 흰색 포크, 오른쪽 하단에는 흰색 포크가 있습니다.
+이미지의 왼쪽 하단에는 흰색 컵, 오른쪽 하단에는 흰색 식탁, 중앙에는 흰색 사람, 왼쪽 하단에는 흰색 포크, 오른쪽 하단에는 흰색 포크가 있습니다.<br/>
 [ Image Description Sentence _ Korean]
 <br/>
 
@@ -74,12 +71,12 @@ There are a white cup in the left bottom and white dining table in the right bot
 
 **Case 2**
 ![original](./Result/case02/original.jpg)
-[ original image ]
+[ original image ]<br/>
 <br/>
 
 
 ![prediction](./Result/case02/prediction.jpg)
-[ After Yolo V3, An image with a bounding box covered ]
+[ After Yolo V3, An image with a bounding box covered ]<br/>
 <br/>
 
 |   Object  |  Confidence score  |  Bounding Box  |
@@ -93,7 +90,7 @@ There are a white cup in the left bottom and white dining table in the right bot
 |Bowl|57%|2394 2362 3291 2753|
 |Cup|82%|3719 2395 4286 2959|
 |MicroWave|99%|4503 591 5925 1590|
-|Oven|63%|4505 1656 5970 2852|
+|Oven|63%|4505 1656 5970 2852|<br/>
 ['Yolo_result.txt' ]
 <br/>
 
@@ -109,13 +106,13 @@ There are a white cup in the left bottom and white dining table in the right bot
 |Bowl|White|center|
 |Cup|Yellow|right bottom|
 |MicroWave|White|right top|
-|Oven|White|right bottom|
+|Oven|White|right bottom|<br/>
 [Image information]
 <br/>
 
-There are a yellow orange in the left bottom and a white orange in the left bottom and a yellow orange in the left bottom and a white oven in the left bottom and a white person in the center and a white spoon in the center and white a bowl in the center and yellow cup in the right bottom and a white microwave in the right top and a white oven in the right bottom in the image.
+There are a yellow orange in the left bottom and a white orange in the left bottom and a yellow orange in the left bottom and a white oven in the left bottom and a white person in the center and a white spoon in the center and white a bowl in the center and yellow cup in the right bottom and a white microwave in the right top and a white oven in the right bottom in the image.<br/>
 [ Image Description Sentence]
 
-왼쪽 하단에 노란색 주황색, 왼쪽 하단에 흰색 주황색, 왼쪽 하단에 노란색 주황색, 왼쪽 하단에 흰색 오븐, 중앙에 흰색 사람, 중앙에 흰색 숟가락, 흰색 a 이미지의 중앙에는 그릇, 오른쪽 하단에는 노란색 컵, 오른쪽 상단에는 흰색 전자 레인지, 오른쪽 하단에는 흰색 오븐이 있습니다.
+왼쪽 하단에 노란색 주황색, 왼쪽 하단에 흰색 주황색, 왼쪽 하단에 노란색 주황색, 왼쪽 하단에 흰색 오븐, 중앙에 흰색 사람, 중앙에 흰색 숟가락, 흰색 a 이미지의 중앙에는 그릇, 오른쪽 하단에는 노란색 컵, 오른쪽 상단에는 흰색 전자 레인지, 오른쪽 하단에는 흰색 오븐이 있습니다.<br/>
 [ Image Description Sentence _ Korean]
 <br/>
