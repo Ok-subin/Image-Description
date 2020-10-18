@@ -33,12 +33,14 @@ I will show you some of the results produced by running this program.
 ![original](./Result/case01/original.jpg)<br/>
 **[ original image ]**
 <br/>
-
+<br/>
 
 ![prediction](./Result/case01/prediction.jpg)<br/>
 **[ After Yolo V3, An image with a bounding box covered ]<br/>**
 <br/>
+<br/>
 
+**['Yolo_result.txt' ]<br/>**
 |   Object  |  Confidence score  |  Bounding Box  |
 |-----------|--------------------|----------------|
 |Cup|98%|200 3343 1190 4438|
@@ -46,9 +48,9 @@ I will show you some of the results produced by running this program.
 |Person|100%|757 717 6050 3946|
 |Fork|58%|2559 2195 2797 3410|
 |Fork|73%|3479 2757 4005 3472|
-**['Yolo_result.txt' ]<br/>**
 
-
+<br/>
+**[Image information]<br/>**
 |   Object  |  Color |  Location  |
 |-----------|--------------------|----------------|
 |Cup|White|left bottom|
@@ -56,7 +58,7 @@ I will show you some of the results produced by running this program.
 |Person|White|Center|
 |Fork|White|Left bottom|
 |Fork|White|Right bottom|
-**[Image information]<br/>**
+
 
 
 There are a white cup in the left bottom and white dining table in the right bottom and white person in the center and white fork in the left bottom and white fork in the right bottom in the image.<br/>
@@ -72,12 +74,13 @@ There are a white cup in the left bottom and white dining table in the right bot
 ![original](./Result/case02/original.jpg)
 **[ original image ]<br/>**
 <br/>
-
+<br/>
 
 ![prediction](./Result/case02/prediction.jpg)
 **[ After Yolo V3, An image with a bounding box covered ]<br/>**
-<br/>
+<br/><br/>
 
+**['Yolo_result.txt' ]<br/>**
 |   Object  |  Confidence score  |  Bounding Box  |
 |-----------|--------------------|----------------|
 |Orange|79%| 23 3047 537 3484|
@@ -91,10 +94,8 @@ There are a white cup in the left bottom and white dining table in the right bot
 |MicroWave|99%|4503 591 5925 1590|
 |Oven|63%|4505 1656 5970 2852|
 <br/>
-**['Yolo_result.txt' ]**
 
-
-
+**[Image information]<br/>**
 |   Object  |  Color |  Location  |
 |-----------|--------------------|----------------|
 |Orange|Yellow|left bottom|
@@ -108,7 +109,6 @@ There are a white cup in the left bottom and white dining table in the right bot
 |MicroWave|White|right top|
 |Oven|White|right bottom|
 <br/>
-**[Image information]**
 
 
 There are a yellow orange in the left bottom and a white orange in the left bottom and a yellow orange in the left bottom and a white oven in the left bottom and a white person in the center and a white spoon in the center and a white bowl in the center and yellow cup in the right bottom and a white microwave in the right top and a white oven in the right bottom in the image.<br/>
