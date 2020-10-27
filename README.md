@@ -9,6 +9,9 @@ I used **Yolo v3 for object recognition and bounding box creation.** I modified 
 1) The object name and confidence score are saved as a text file.
 2) Previous program give Height, length, upper left point and lower right point information of the bounding box. After modification, the **four points of the bounding box** are extracted by calculating previous information. Save the extracted coordinate information as a text file.
 
+I just commit source code. If you want to compile this YOLO code, You have to download YOLO V3, and modified some code.
+I modified 'image.c', 'detector.c', ''
+
 ## Usage
 If you want to use this program, 
 1. Download all files. 
