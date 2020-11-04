@@ -14,7 +14,7 @@ I modified 'image.c', 'detector.c', 'darknet.c'.
 
 ## Usage
 If you want to use this program, 
-1. Download all files. 
+1. Download all files and YOLO v3.
 2. Input File Address. 
     1) Yolo v3
 	    I used and modified 'darknet_no_gpu.sln'. So input the address to save object name, confidence score, and bounding box information into function 'draw_detections_v3' of 'image.c'.
